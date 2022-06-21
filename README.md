@@ -3,7 +3,7 @@
 Show Master Dashboard is a Reporter Plugin to display a Progress Bar showing Layer Colors of Selected Master.  
 Activate it from `View > Show Master Dashboard`
 
-<img src="https://github.com/HugoJourdan/Color-Workflow/blob/main/Master%20Dashboard/FullWidth.png?raw=true" width="800" />
+<img src="https://github.com/HugoJourdan/Show-Master-Dashboard/blob/main/FullWidth.png" width="800" />
 
 Two display modes are available :  
 *   `fullwidth` : Set Progress Bar width equal to EditView width   
